@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="HRL_LOGO.png" alt="HLR Logo" width="300"/>
+</p>
+
 # Heuristic Legacy Refactoring (HLR) Manifesto
 
 ## What is HLR?  
